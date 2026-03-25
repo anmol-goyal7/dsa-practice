@@ -18,6 +18,7 @@ vector<int> twoSum(vector<int>& arr, int target) {
         seen[arr[i]] = i;
         }
     return {};
+    } 
     
 }
 
