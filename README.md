@@ -2,6 +2,8 @@
 
 My main goal with this repository is to complete the **NeetCode 150** problem list in **C++**.
 
+**LeetCode Profile:** [anmol-goyal7](https://leetcode.com/u/anmol-goyal7/)
+
 NeetCode 150 is a curated set of 150 LeetCode problems that cover the most important data structures and algorithms patterns needed for technical interviews.
 
 ## Topics Covered
