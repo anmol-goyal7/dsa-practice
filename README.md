@@ -4,16 +4,16 @@ My solutions to the [NeetCode 150](https://neetcode.io/practice) problem list in
 
 **LeetCode Profile:** [anmol-goyal7](https://leetcode.com/u/anmol-goyal7/)
 
-### Progress: `4 / 150` completed
+### Progress: `3 / 150` completed
 
-### Arrays & Hashing (4/9)
+### Arrays & Hashing (3/9)
 
 | Problem | Solution |
 |---------|----------|
 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](arrays-and-hashing/contains_duplicate.cpp) |
 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](arrays-and-hashing/valid_anagram.cpp) |
 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](arrays-and-hashing/two-sum.cpp) |
-| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](arrays-and-hashing/group_anagrams.cpp) |
+| [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |  |
 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |  |
 | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |  |
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |  |
